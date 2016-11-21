@@ -6,3 +6,14 @@ Race Kit is a easy solution for implementing racing as a starting point for a ra
 Check out the [wiki](https://github.com/43KStudios/RaceKit/wiki) for instructions!
 
 For support or to suggest a feature, check out the [project](https://github.com/43KStudios/RaceKit/projects) tab!
+
+## Patch Notes
+
+### Patch 1.1
+
+Had to make a critical fix for the scoreboard not updating correctly, along with two new features!
+
+* Fixed all scoreboard entries not updating properly
+* Custom Racer Name support for UI
+* Allow Shortcuts option, on by default
+* Fixes for Overview map, and UI spacing issues
